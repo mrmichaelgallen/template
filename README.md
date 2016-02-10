@@ -10,6 +10,6 @@ A set of drills, projects and coding challenges, which were a part of my school 
 * Database & SQL
 * JavaScript
 * Python
-* C/#/
+* C/#
 
 In addition to the coding course work in this repository, The Tech Academy also requires students to take  
