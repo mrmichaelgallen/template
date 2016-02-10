@@ -10,7 +10,7 @@ A set of drills, projects and coding challenges, which were a part of my school 
 * Python
 * C#
 
-In addition to the coding course work in this repository, The Tech Academy also requires students to the following courses to help build a strong foundation in software development. Students have the option of working on a live-project to gain hands on experience of solving real world problems for clients.
+In addition to the coding course work in this repository, The Tech Academy also provides students the following courses to help build a strong foundation in software development. Students also have the option of working on a live-project to gain hands on experience of solving real-world software challenges for clients.
 
 * Computer Basics
 * WordPress
