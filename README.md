@@ -4,7 +4,7 @@
 A set of drills, projects and coding challenges, which were a part of my school work at The Tech Academy. If you would like to see a collection of coding examples that demonstrate my skills and problem solving with software development, please visit my [portfolio](LinkToYourProfileHere) on GitHub.
 
 ### Courses
-* HTML & CSS
+* [HTML & CSS](/HTML-CSS)
 * Database & SQL
 * JavaScript
 * Python
