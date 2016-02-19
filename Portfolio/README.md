@@ -15,7 +15,7 @@ Check out my LinkedIn and my blog to learn more about me.
 
 #### JavaScript
 * [JavaScript Examples](/Portfolio/JavaScript)
-* Login Script Drill
+* [Login Script Drill](/Portfolio/JavaScript/Login-Script-Drill)
 
 #### Python
 * [Python Examples](/Portfolio/Python)
