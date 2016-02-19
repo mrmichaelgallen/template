@@ -1,9 +1,9 @@
-### Database and SQL Course Work
+### Database & SQL Course Work
 ***
 
-This is a collection of my dataase and SQL course work at The Tech Academy, both step-by-step drill work and assignments my own solutions.
+This is a collection of my course work, both following along drill work as well as my own solutions to assignements.
 
-If you would like to see only my own solutions to software challenges, please check out my [portfolio](LinkToYourPortfolioHere) of my work with readme files detailing how I solved each one.
+If you would like to see only my own solutions to software challenges, please check out my GitHub portfolio of my work with readme files detailing how I solved each one.
 
-[LinkedIn](LinkToYourLinkedInProfileHere) and [Blog](LinkToYourBlogHere)
+Return to [The Tech Academy Course Work](/The-Tech-Academy-Course-Work) main page
 
