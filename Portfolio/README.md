@@ -19,7 +19,7 @@ Check out my LinkedIn and my blog to learn more about me.
 
 #### Python
 * [Python Examples](/Portfolio/Python)
-* Datetime Drill
+* [Datetime Drill](/Portfolio/Python/Datetime-Drill)
 
 #### C#  
 * [C# Examples](/Portfolio/C-Sharp)
