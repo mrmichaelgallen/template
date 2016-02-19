@@ -19,7 +19,7 @@ Text
 * Python Examples
 * Datetime Drill
 
-#### C/# 
+#### C#  
 * C# Examples
 
 #### Team Projects
