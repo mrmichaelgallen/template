@@ -8,7 +8,7 @@ A set of drills, projects and coding challenges, which were a part of my school 
 * [Database & SQL](/The-Tech-Academy-Course-Work/Database-SQL)
 * [JavaScript](/The-Tech-Academy-Course-Work/JavaScript)
 * [Python](/The-Tech-Academy-Course-Work/Python)
-* [C#](/The-Tech-Academy-Course-Work/C#)
+* [C#](/The-Tech-Academy-Course-Work/C-Sharp)
 
 ### Other Courses Taken at The Tech Academy
 
