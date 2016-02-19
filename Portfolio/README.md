@@ -19,8 +19,8 @@ Text
 * Python Examples
 * Datetime Drill
 
-#### C#/
-* C#/ Examples
+#### C/#/
+* C/#/ Examples
 
 #### Team Projects
 * Live-Project coming after C# Course
