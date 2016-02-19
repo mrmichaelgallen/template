@@ -3,6 +3,8 @@
 
 Text
 
+Check out my LinkedIn and my blog to learn more about me.
+
 #### HTML & CSS
 * HTML & CSS  Examples
 * Login-Drill
