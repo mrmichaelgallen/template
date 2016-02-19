@@ -22,7 +22,7 @@ Check out my LinkedIn and my blog to learn more about me.
 * Datetime Drill
 
 #### C#  
-* [C# Examples](/Portfolio/C# )
+* [C# Examples](/Portfolio/C#-Projects)
 * Example
 
 #### Team Projects
