@@ -4,6 +4,7 @@
 #### Resources
 * [Markdown Cheat-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 * [Markdown Philosophy](http://daringfireball.net/projects/markdown/syntax)
+* [Michael Allen's GitHub](https://github.com/mrmichaelgallen)
 
 #### Things to Remember
 * Git is one type of version control software that tracks the versions of files, there are many! Read more about them on Wiki.
