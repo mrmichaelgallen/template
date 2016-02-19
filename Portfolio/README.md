@@ -1,28 +1,29 @@
 ### Portfolio
 ***
 
-Introduction
+Write introduction
 
 Check out my LinkedIn and my blog to learn more about me.
 
 #### HTML & CSS
-* HTML & CSS  Examples
+* [HTML & CSS  Examples](/Portfolio/HTML-CSS)
 * Login-Drill
 
 #### Database & SQL
-* Database & SQL Examples
-* City Library Drill
+* [Database & SQL Examples](/Portfolio/Database-SQL)
+* [City Library Drill](/Portfolio/Database-SQL/City-Library-Drill)
 
 #### JavaScript
-* JavaScript Examples
+* [JavaScript Examples](/Portfolio/JavaScript)
 * Login Script Drill
 
 #### Python
-* Python Examples
+* [Python Examples](/Portfolio/Python)
 * Datetime Drill
 
 #### C#  
-* C# Examples
+* [C# Examples](/Portfolio/C#)
+* Example
 
 #### Team Projects
 * Live-Project coming after C# Course
