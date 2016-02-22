@@ -6,7 +6,7 @@ Write introduction
 Check out my LinkedIn and my blog to learn more about me.
 
 #### HTML & CSS
-* [HTML & CSS  Examples](Portfolio/HTML-CSS)
+* [HTML & CSS  Examples](./HTML-CSS)
 * [CSS Login Drill](Portfolio/HTML-CSS/CSS-Login-Drill)
 
 #### Database & SQL
