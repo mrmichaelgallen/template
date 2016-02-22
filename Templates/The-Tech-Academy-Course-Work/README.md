@@ -9,7 +9,6 @@ A set of drills, projects and coding challenges, which were a part of my school 
 * [HTML & CSS](./HTML-CSS)
 * [JavaScript](./JavaScript)
 * [Python](./Python)
-* [Team Projects](./Team-Projects)
 
 ### Other Courses Taken at The Tech Academy
 
