@@ -4,11 +4,12 @@
 A set of drills, projects and coding challenges, which were a part of my school work at The Tech Academy. If you would like to see a collection of coding examples that demonstrate my skills and problem solving with software development, please visit my [portfolio](AddYourPortfolioLinkHere) on GitHub.
 
 ### Courses
-* [HTML & CSS](./HTML-CSS)
+* [C#](./C-Sharp)
 * [Database & SQL](./Database-SQL)
+* [HTML & CSS](./HTML-CSS)
 * [JavaScript](./JavaScript)
 * [Python](./Python)
-* [C#](./C-Sharp)
+* [Team Projects](./Team-Projects)
 
 ### Other Courses Taken at The Tech Academy
 
