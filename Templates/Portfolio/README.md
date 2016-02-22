@@ -6,24 +6,24 @@ Write introduction
 Check out my LinkedIn and my blog to learn more about me.
 
 #### HTML & CSS
-* [HTML & CSS  Examples](/HTML-CSS)
-* [CSS Login Drill](/HTML-CSS/CSS-Login-Drill)
+* [HTML & CSS  Examples](Portfolio/HTML-CSS)
+* [CSS Login Drill](Portfolio/HTML-CSS/CSS-Login-Drill)
 
 #### Database & SQL
-* [Database & SQL Examples](/Database-SQL)
-* [City Library Drill](/Database-SQL/City-Library-Drill)
+* [Database & SQL Examples](Portfolio/Database-SQL)
+* [City Library Drill](Portfolio/Database-SQL/City-Library-Drill)
 
 #### JavaScript
-* [JavaScript Examples](/JavaScript)
-* [Login Script Drill](/JavaScript/Login-Script-Drill)
+* [JavaScript Examples](Portfolio/JavaScript)
+* [Login Script Drill](Portfolio/JavaScript/Login-Script-Drill)
 
 #### Python
-* [Python Examples](/Python)
-* [Datetime Drill](/Python/Datetime-Drill)
+* [Python Examples](Portfolio/Python)
+* [Datetime Drill](Portfolio/Python/Datetime-Drill)
 
 #### C#  
-* [C# Examples](/C-Sharp)
-* [File Transfer Drill](/C-Sharp/File-Transfer-Drill)
+* [C# Examples](Portfolio/C-Sharp)
+* [File Transfer Drill](Portfolio/C-Sharp/File-Transfer-Drill)
 
 #### Team Projects
 * Live-Project coming after C# Course
