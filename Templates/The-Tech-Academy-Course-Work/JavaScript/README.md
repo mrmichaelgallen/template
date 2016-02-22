@@ -5,4 +5,4 @@ This is my course work for JavaScript, both following along drill work as well a
 
 If you would like to see only my own solutions to software challenges, please check out my GitHub portfolio of my work with readme files detailing how I solved each one.
 
-Return to [The Tech Academy Course Work](/The-Tech-Academy-Course-Work) main page
+Return to course work [main page](../../../)
